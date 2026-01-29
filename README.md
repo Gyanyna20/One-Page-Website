@@ -1,2 +1,4 @@
-# One-Page-Website
-One page website
+# One Page Website
+
+One page website was created as part of HTML course assignment
+
